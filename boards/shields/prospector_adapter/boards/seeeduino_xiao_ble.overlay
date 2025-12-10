@@ -11,7 +11,7 @@
    status = "disabled";
 };
 
-&pinctrl_0 {
+&pinctrl {
    spi3_default: spi3_default {
 		group1 {
 			psels = <NRF_PSEL(SPIM_SCK, 1, 13)>,
