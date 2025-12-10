@@ -1,4 +1,4 @@
-#include "board/seeeduino_xiao_ble.overlay"
+#include "boards/seeeduino_xiao_ble.overlay"
 
 / {
    chosen {
