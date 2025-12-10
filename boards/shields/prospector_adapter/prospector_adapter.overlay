@@ -1,3 +1,5 @@
+#include "board/seeeduino_xiao_ble.overlay"
+
 / {
    chosen {
       zephyr,display = &st7789;
